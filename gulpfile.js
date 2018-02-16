@@ -12,7 +12,7 @@ var testFiles = [
 ];
 var apiVersion = 1;
 var apiEndpoint = 'js.logentries.com/v' + apiVersion;
-var webhookEndpoint = 'webhook.logentries.com/noformat';
+var webhookEndpoint = 'us.webhook.logs.insight.rapid7.com/noformat';
 
 
 gulp.task('default', ['test', 'build']);

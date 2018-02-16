@@ -81,7 +81,7 @@
         if (window.LEENDPOINT) {
             _endpoint = window.LEENDPOINT;
         } else if (_noFormat) {
-            _endpoint = "webhook.logentries.com/noformat";
+            _endpoint = "us.webhook.logs.insight.rapid7.com/noformat";
         }
         else {
             _endpoint = "js.logentries.com/v1";
