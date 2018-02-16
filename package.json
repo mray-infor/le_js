@@ -1,7 +1,7 @@
 {
-  "name": "le_js",
+  "name": "le_js_fork_no-anon-modules",
   "version": "0.0.3",
-  "description": "Javascript library for Logentries.com",
+  "description": "Fork of https://github.com/rapid7/le_js",
   "main": "product/le.js",
   "directories": {
     "test": "test"
@@ -13,14 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/logentries/le_js.git"
+    "url": "git://github.com/mray-infor/le_js.git"
   },
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/logentries/le_js/issues"
-  },
-  "homepage": "https://logentries.com",
   "devDependencies": {
     "google-closure-compiler": "^20161024.2.0",
     "gulp": "^3.6.2",
