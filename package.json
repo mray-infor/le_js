@@ -1,5 +1,5 @@
 {
-  "name": "le_js_fork_no-anon-modules",
+  "name": "le_js_fork_no-anon-module",
   "version": "0.0.3",
   "description": "Fork of https://github.com/rapid7/le_js",
   "main": "product/le.js",
